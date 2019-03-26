@@ -44,7 +44,7 @@
 {"firstName": "tomcat", "lastName": "cat"}
 ```
 ## 查看person 及 person 列表
-我们再次在浏览器中访问（GET）  http://localhost:8000/person。得到的结果中，JSON数据和第一步中一样，person节点中不再是空的了。
+我们再次在浏览器中访问（GET）  `http://localhost:8000/person`。得到的结果中，JSON数据和第一步中一样，person节点中不再是空的了。
 ```json
 [
     {
